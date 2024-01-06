@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Shravya Sompalli, and I'm a junior at Brown University studying Computer Science on the data and software tracks and Ethnic Studies.
+
+📫: shravya_sompalli@brown.edu
+
 <!--
 **ssompal1/ssompal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
